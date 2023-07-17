@@ -2,18 +2,18 @@
 # It is only used by humans to describe what is going on in the program.
 # Computers will simply ignore these ligns.
 # The line below will display "Hello World!" on screen!
-print("Hello World!")
+print("Hello loser!")
 
 # Here, we create a variable named x, and assign it a value 
 # resulting from the operation 10 + 3.
 # It will be stored in memory for later reuse.
-x = 10 + 3
+x = 10 + 5
 
 # Retrieve the value in memory for variable x and display it.
 print(x)
 
 # Later on, we may reuse the value of x to create a new variable y
-y = x*2
+y = x*3
 
 # Retrieve the value in memory for variable y and display it.
 print(y)
