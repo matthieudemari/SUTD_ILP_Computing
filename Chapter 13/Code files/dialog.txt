@@ -1,0 +1,5 @@
+NPC: Hello there adventurer!
+Hero: What is going on good sir?
+NPC: I lost my daugther! Please help me find her.
+NPC: I saw her going towards the volcano area.
+Hero: You are the worst parent I have ever met.

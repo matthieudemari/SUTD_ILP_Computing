@@ -1,0 +1,20 @@
+# Ignore all zip files
+**/*.zip
+
+# Ignore all video files
+*.zip
+
+# Ignore all "Recordings" folders
+**/Recordings/
+
+# Ignore all "Sub" folders
+**/Sub/
+
+# Ignore all .ipynb_checkpoints folders at any level
+**/.ipynb_checkpoints/
+
+# Ignore all debug.log files
+**/debug.log
+
+# Ignore Excel file
+ILP_Tracker.xlsx
